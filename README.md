@@ -24,7 +24,7 @@
 
 <!-- ### Liked my GitHub:question::point_right: [Sponsor me a Dollar](https://t.co/z1ya8nt5mT?amp=1) 💰 💵 :sparkles: -->
 
-- 👨‍💻 All about me is at [My Website](https://uvudatha.github.io/)
+- 👨‍💻 All about me is at [My Website](https://uvudatha.github.io/) COMING SOON...
 
 - 💬 Ask me about ``` var topics = ["Python", "Java", "Machine Learning", "Natural Language Processing", "Competitive Programming"] ```
 
