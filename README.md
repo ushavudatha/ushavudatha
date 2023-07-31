@@ -28,6 +28,8 @@
 
 - 💬 Ask me about ``` var topics = ["Python", "Java", "Machine Learning", "Natural Language Processing", "Competitive Programming"] ```
 
+- 🌱 I’m currently learning ``` Go ```
+
 - 📫 How to reach me **ushavudatha@gmail.com**
 
 - 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1x-181ICq6cKNhCj2v7ABqyWy-32KfziN/view?usp=sharing)
