@@ -39,7 +39,8 @@
 - Publication on [Sentiment Analysis](https://ieeexplore.ieee.org/document/9837338)
 
 ### What are my featured projects:question::rocket:
-<code>[100DaysOfCode](https://github.com/uvudatha/100DaysOfCode)</code>
+<code>[Absenteeism](https://github.com/uvudatha/Absenteeism-at-work-using-MachineLearning)</code>
+<code>[Sentiment Analysis](https://github.com/uvudatha/Sentiment-analysis)</code>
 <code>[Visualization](https://github.com/uvudatha/Visualization-Project)</code>
 <code>[DNS Resolver](https://github.com/uvudatha/DNSresolver)</code>
 
